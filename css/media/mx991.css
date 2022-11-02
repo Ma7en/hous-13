@@ -1,0 +1,20 @@
+
+/*  */
+
+@media (max-width: 991px) {
+
+
+    .real .container .cards {
+        flex-direction: column;
+        row-gap: 20px;
+    }
+
+
+
+
+
+
+
+
+
+}
